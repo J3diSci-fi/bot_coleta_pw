@@ -21,12 +21,6 @@ O **Auto Coleta** é um script Python desenvolvido para automatizar a coleta de 
 
 Certifique-se de que você tem o Python e o `pip` instalados. O script também requer as seguintes bibliotecas:
 
-- `numpy`
-- `opencv-python`
-- `pyautogui`
-- `colorama`
-- `pywin32` (para `win32gui`, `win32ui`, e `win32con`)
-
 Você pode instalar as dependências com o seguinte comando:
 
 ```bash
